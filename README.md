@@ -1,7 +1,7 @@
 # planner-runner
 
 
-##Tble of content
+## Tble of content
   -[Description](#description)
   -[Installation](#installation)
   -[Usage](#usage)
@@ -9,13 +9,13 @@
   -[Testing](#testing)
   -[Additional Info](#additional-info)
 
-##Descripition:
+## Descripition:
   
  AS A small business owner
 I WANT to be able to write and save notes
 SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
-##Usage:
+## Usage:
 GIVEN a note-taking application
 WHEN I open the Note Taker
 THEN I am presented with a landing page with a link to a notes page
@@ -31,9 +31,11 @@ WHEN I click on the "New Note" button in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column and the button disappears
 ##Contribution:
   Adding simplify codes can do the same functions 
-##Testing
+## Testing
   by terminal
-#Contact information:
+## Contact information:
  -Github [MathewG2099](htpps://github.com/MathewG2099)
  -Email: [fireacademy2099@gmail.com](mailto:user@example.com)
+ 
 
+<img width="1529" alt="Screenshot" src="https://github.com/MathewG2099/planner-runner/assets/160433914/e04c6499-cf91-4750-b8c2-1c1c98084f70">
