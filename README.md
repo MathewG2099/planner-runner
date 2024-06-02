@@ -38,4 +38,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
  -Email: [fireacademy2099@gmail.com](mailto:user@example.com)
  
 
-<img width="1529" alt="Screenshot" src="https://github.com/MathewG2099/planner-runner/assets/160433914/e04c6499-cf91-4750-b8c2-1c1c98084f70">
+![note 2](https://github.com/MathewG2099/planner-runner/assets/160433914/141cb6ad-19c6-4dde-9f3c-3a133d71bfda)
+![note 1](https://github.com/MathewG2099/planner-runner/assets/160433914/7d61aa7d-8e6a-4e76-9356-01ba98ce34d4)
+![Note 3](https://github.com/MathewG2099/planner-runner/assets/160433914/64867bb8-b8aa-49dd-8f60-4bf6e23e6ee2)
+
